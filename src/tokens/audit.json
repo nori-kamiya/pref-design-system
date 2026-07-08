@@ -1,0 +1,3954 @@
+{
+  "total": 658,
+  "failures": 0,
+  "checks": [
+    {
+      "pair": "hokkaido/light/text on surface",
+      "ratio": 17.68,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/light/text on surfaceAlt",
+      "ratio": 16.45,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/light/textMuted on surface",
+      "ratio": 7.48,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/light/onPrimary on primary",
+      "ratio": 4.52,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/light/primaryStrong on surface",
+      "ratio": 4.56,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/light/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/light/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/dark/text on surface",
+      "ratio": 17.19,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/dark/text on surfaceAlt",
+      "ratio": 15.62,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/dark/textMuted on surface",
+      "ratio": 7.91,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/dark/onPrimary on primary",
+      "ratio": 4.52,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/dark/primaryStrong on surface",
+      "ratio": 4.5,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/dark/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hokkaido/dark/tintBorder on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "aomori/light/text on surface",
+      "ratio": 17.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aomori/light/text on surfaceAlt",
+      "ratio": 16.41,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aomori/light/textMuted on surface",
+      "ratio": 7.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aomori/light/onPrimary on primary",
+      "ratio": 5.05,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aomori/light/primaryStrong on surface",
+      "ratio": 4.81,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aomori/light/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "aomori/light/tintBorder on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "aomori/dark/text on surface",
+      "ratio": 17.11,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aomori/dark/text on surfaceAlt",
+      "ratio": 15.59,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aomori/dark/textMuted on surface",
+      "ratio": 7.87,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aomori/dark/onPrimary on primary",
+      "ratio": 5.05,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aomori/dark/primaryStrong on surface",
+      "ratio": 4.59,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aomori/dark/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "aomori/dark/tintBorder on surface (UI)",
+      "ratio": 3.06,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "iwate/light/text on surface",
+      "ratio": 17.69,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "iwate/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "iwate/light/textMuted on surface",
+      "ratio": 7.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "iwate/light/onPrimary on primary",
+      "ratio": 5.59,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "iwate/light/primaryStrong on surface",
+      "ratio": 4.51,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "iwate/light/border on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "iwate/light/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "iwate/dark/text on surface",
+      "ratio": 17.26,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "iwate/dark/text on surfaceAlt",
+      "ratio": 15.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "iwate/dark/textMuted on surface",
+      "ratio": 7.98,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "iwate/dark/onPrimary on primary",
+      "ratio": 5.59,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "iwate/dark/primaryStrong on surface",
+      "ratio": 5.55,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "iwate/dark/border on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "iwate/dark/tintBorder on surface (UI)",
+      "ratio": 3,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/light/text on surface",
+      "ratio": 17.73,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/light/text on surfaceAlt",
+      "ratio": 16.39,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/light/textMuted on surface",
+      "ratio": 7.53,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/light/onPrimary on primary",
+      "ratio": 7.21,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/light/primaryStrong on surface",
+      "ratio": 4.6,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/light/border on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/light/tintBorder on surface (UI)",
+      "ratio": 3.06,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/dark/text on surface",
+      "ratio": 17.13,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/dark/text on surfaceAlt",
+      "ratio": 15.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/dark/textMuted on surface",
+      "ratio": 7.88,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/dark/onPrimary on primary",
+      "ratio": 7.21,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/dark/primaryStrong on surface",
+      "ratio": 7.17,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/dark/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "miyagi/dark/tintBorder on surface (UI)",
+      "ratio": 3.12,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "akita/light/text on surface",
+      "ratio": 17.74,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "akita/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "akita/light/textMuted on surface",
+      "ratio": 7.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "akita/light/onPrimary on primary",
+      "ratio": 8.33,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "akita/light/primaryStrong on surface",
+      "ratio": 4.62,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "akita/light/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "akita/light/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "akita/dark/text on surface",
+      "ratio": 17.18,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "akita/dark/text on surfaceAlt",
+      "ratio": 15.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "akita/dark/textMuted on surface",
+      "ratio": 7.92,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "akita/dark/onPrimary on primary",
+      "ratio": 8.33,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "akita/dark/primaryStrong on surface",
+      "ratio": 8.27,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "akita/dark/border on surface (UI)",
+      "ratio": 3.03,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "akita/dark/tintBorder on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/light/text on surface",
+      "ratio": 17.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/light/textMuted on surface",
+      "ratio": 7.52,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/light/onPrimary on primary",
+      "ratio": 5.84,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/light/primaryStrong on surface",
+      "ratio": 5.57,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/light/border on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/light/tintBorder on surface (UI)",
+      "ratio": 3.06,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/dark/text on surface",
+      "ratio": 17.16,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/dark/text on surfaceAlt",
+      "ratio": 15.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/dark/textMuted on surface",
+      "ratio": 7.87,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/dark/onPrimary on primary",
+      "ratio": 5.84,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/dark/primaryStrong on surface",
+      "ratio": 4.53,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/dark/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamagata/dark/tintBorder on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/light/text on surface",
+      "ratio": 17.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/light/text on surfaceAlt",
+      "ratio": 16.41,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/light/textMuted on surface",
+      "ratio": 7.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/light/onPrimary on primary",
+      "ratio": 10.96,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/light/primaryStrong on surface",
+      "ratio": 4.68,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/light/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/light/tintBorder on surface (UI)",
+      "ratio": 3,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/dark/text on surface",
+      "ratio": 17.11,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/dark/text on surfaceAlt",
+      "ratio": 15.59,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/dark/textMuted on surface",
+      "ratio": 7.87,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/dark/onPrimary on primary",
+      "ratio": 11.19,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/dark/primaryStrong on surface",
+      "ratio": 11.13,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/dark/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukushima/dark/tintBorder on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/light/text on surface",
+      "ratio": 17.59,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/light/text on surfaceAlt",
+      "ratio": 16.43,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/light/textMuted on surface",
+      "ratio": 7.38,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/light/onPrimary on primary",
+      "ratio": 8.96,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/light/primaryStrong on surface",
+      "ratio": 4.6,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/light/border on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/light/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/dark/text on surface",
+      "ratio": 17.32,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/dark/text on surfaceAlt",
+      "ratio": 15.81,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/dark/textMuted on surface",
+      "ratio": 7.94,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/dark/onPrimary on primary",
+      "ratio": 8.96,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/dark/primaryStrong on surface",
+      "ratio": 8.9,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/dark/border on surface (UI)",
+      "ratio": 3.03,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ibaraki/dark/tintBorder on surface (UI)",
+      "ratio": 3.04,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/light/text on surface",
+      "ratio": 17.7,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/light/text on surfaceAlt",
+      "ratio": 16.41,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/light/textMuted on surface",
+      "ratio": 7.52,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/light/onPrimary on primary",
+      "ratio": 5.99,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/light/primaryStrong on surface",
+      "ratio": 4.55,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/light/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/light/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/dark/text on surface",
+      "ratio": 17.12,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/dark/text on surfaceAlt",
+      "ratio": 15.6,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/dark/textMuted on surface",
+      "ratio": 7.88,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/dark/onPrimary on primary",
+      "ratio": 5.99,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/dark/primaryStrong on surface",
+      "ratio": 5.95,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/dark/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tochigi/dark/tintBorder on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "gunma/light/text on surface",
+      "ratio": 17.69,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gunma/light/text on surfaceAlt",
+      "ratio": 16.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gunma/light/textMuted on surface",
+      "ratio": 7.48,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gunma/light/onPrimary on primary",
+      "ratio": 9.72,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gunma/light/primaryStrong on surface",
+      "ratio": 4.56,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gunma/light/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "gunma/light/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "gunma/dark/text on surface",
+      "ratio": 17.2,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gunma/dark/text on surfaceAlt",
+      "ratio": 15.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gunma/dark/textMuted on surface",
+      "ratio": 7.9,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gunma/dark/onPrimary on primary",
+      "ratio": 9.72,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gunma/dark/primaryStrong on surface",
+      "ratio": 9.68,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gunma/dark/border on surface (UI)",
+      "ratio": 3.12,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "gunma/dark/tintBorder on surface (UI)",
+      "ratio": 3.06,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "saitama/light/text on surface",
+      "ratio": 17.73,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saitama/light/text on surfaceAlt",
+      "ratio": 16.39,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saitama/light/textMuted on surface",
+      "ratio": 7.53,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saitama/light/onPrimary on primary",
+      "ratio": 9.04,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saitama/light/primaryStrong on surface",
+      "ratio": 4.56,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saitama/light/border on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "saitama/light/tintBorder on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "saitama/dark/text on surface",
+      "ratio": 17.13,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saitama/dark/text on surfaceAlt",
+      "ratio": 15.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saitama/dark/textMuted on surface",
+      "ratio": 7.88,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saitama/dark/onPrimary on primary",
+      "ratio": 9.04,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saitama/dark/primaryStrong on surface",
+      "ratio": 8.98,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saitama/dark/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "saitama/dark/tintBorder on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "chiba/light/text on surface",
+      "ratio": 17.64,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "chiba/light/text on surfaceAlt",
+      "ratio": 16.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "chiba/light/textMuted on surface",
+      "ratio": 7.39,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "chiba/light/onPrimary on primary",
+      "ratio": 11.31,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "chiba/light/primaryStrong on surface",
+      "ratio": 4.56,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "chiba/light/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "chiba/light/tintBorder on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "chiba/dark/text on surface",
+      "ratio": 17.24,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "chiba/dark/text on surfaceAlt",
+      "ratio": 15.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "chiba/dark/textMuted on surface",
+      "ratio": 7.96,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "chiba/dark/onPrimary on primary",
+      "ratio": 13.14,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "chiba/dark/primaryStrong on surface",
+      "ratio": 13.07,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "chiba/dark/border on surface (UI)",
+      "ratio": 3.03,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "chiba/dark/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/light/text on surface",
+      "ratio": 17.68,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/light/text on surfaceAlt",
+      "ratio": 16.45,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/light/textMuted on surface",
+      "ratio": 7.48,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/light/onPrimary on primary",
+      "ratio": 6.1,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/light/primaryStrong on surface",
+      "ratio": 5.84,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/light/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/light/tintBorder on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/dark/text on surface",
+      "ratio": 17.19,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/dark/text on surfaceAlt",
+      "ratio": 15.62,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/dark/textMuted on surface",
+      "ratio": 7.91,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/dark/onPrimary on primary",
+      "ratio": 6.1,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/dark/primaryStrong on surface",
+      "ratio": 4.52,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/dark/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tokyo/dark/tintBorder on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/light/text on surface",
+      "ratio": 17.64,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/light/text on surfaceAlt",
+      "ratio": 16.41,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/light/textMuted on surface",
+      "ratio": 7.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/light/onPrimary on primary",
+      "ratio": 7.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/light/primaryStrong on surface",
+      "ratio": 7.37,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/light/border on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/light/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/dark/text on surface",
+      "ratio": 17.3,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/dark/text on surfaceAlt",
+      "ratio": 15.78,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/dark/textMuted on surface",
+      "ratio": 7.92,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/dark/onPrimary on primary",
+      "ratio": 7.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/dark/primaryStrong on surface",
+      "ratio": 4.65,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/dark/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kanagawa/dark/tintBorder on surface (UI)",
+      "ratio": 3.05,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "niigata/light/text on surface",
+      "ratio": 17.7,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "niigata/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "niigata/light/textMuted on surface",
+      "ratio": 7.5,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "niigata/light/onPrimary on primary",
+      "ratio": 10.93,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "niigata/light/primaryStrong on surface",
+      "ratio": 4.55,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "niigata/light/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "niigata/light/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "niigata/dark/text on surface",
+      "ratio": 17.15,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "niigata/dark/text on surfaceAlt",
+      "ratio": 15.62,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "niigata/dark/textMuted on surface",
+      "ratio": 7.88,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "niigata/dark/onPrimary on primary",
+      "ratio": 11.16,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "niigata/dark/primaryStrong on surface",
+      "ratio": 11.09,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "niigata/dark/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "niigata/dark/tintBorder on surface (UI)",
+      "ratio": 3.14,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "toyama/light/text on surface",
+      "ratio": 17.64,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "toyama/light/text on surfaceAlt",
+      "ratio": 16.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "toyama/light/textMuted on surface",
+      "ratio": 7.39,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "toyama/light/onPrimary on primary",
+      "ratio": 11.34,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "toyama/light/primaryStrong on surface",
+      "ratio": 4.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "toyama/light/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "toyama/light/tintBorder on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "toyama/dark/text on surface",
+      "ratio": 17.24,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "toyama/dark/text on surfaceAlt",
+      "ratio": 15.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "toyama/dark/textMuted on surface",
+      "ratio": 7.96,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "toyama/dark/onPrimary on primary",
+      "ratio": 14.38,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "toyama/dark/primaryStrong on surface",
+      "ratio": 14.3,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "toyama/dark/border on surface (UI)",
+      "ratio": 3.03,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "toyama/dark/tintBorder on surface (UI)",
+      "ratio": 3.05,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/light/text on surface",
+      "ratio": 17.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/light/textMuted on surface",
+      "ratio": 7.51,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/light/onPrimary on primary",
+      "ratio": 7.4,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/light/primaryStrong on surface",
+      "ratio": 7.06,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/light/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/light/tintBorder on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/dark/text on surface",
+      "ratio": 17.14,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/dark/text on surfaceAlt",
+      "ratio": 15.61,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/dark/textMuted on surface",
+      "ratio": 7.89,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/dark/onPrimary on primary",
+      "ratio": 7.4,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/dark/primaryStrong on surface",
+      "ratio": 4.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/dark/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ishikawa/dark/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukui/light/text on surface",
+      "ratio": 17.62,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukui/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukui/light/textMuted on surface",
+      "ratio": 7.46,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukui/light/onPrimary on primary",
+      "ratio": 5.12,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukui/light/primaryStrong on surface",
+      "ratio": 4.88,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukui/light/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukui/light/tintBorder on surface (UI)",
+      "ratio": 3.04,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukui/dark/text on surface",
+      "ratio": 17.18,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukui/dark/text on surfaceAlt",
+      "ratio": 15.68,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukui/dark/textMuted on surface",
+      "ratio": 7.9,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukui/dark/onPrimary on primary",
+      "ratio": 5.12,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukui/dark/primaryStrong on surface",
+      "ratio": 4.55,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukui/dark/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukui/dark/tintBorder on surface (UI)",
+      "ratio": 3.04,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/light/text on surface",
+      "ratio": 17.73,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/light/text on surfaceAlt",
+      "ratio": 16.4,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/light/textMuted on surface",
+      "ratio": 7.45,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/light/onPrimary on primary",
+      "ratio": 9.76,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/light/primaryStrong on surface",
+      "ratio": 9.32,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/light/border on surface (UI)",
+      "ratio": 3.13,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/light/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/dark/text on surface",
+      "ratio": 17.1,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/dark/text on surfaceAlt",
+      "ratio": 15.6,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/dark/textMuted on surface",
+      "ratio": 7.86,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/dark/onPrimary on primary",
+      "ratio": 9.76,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/dark/primaryStrong on surface",
+      "ratio": 4.52,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/dark/border on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamanashi/dark/tintBorder on surface (UI)",
+      "ratio": 3.13,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nagano/light/text on surface",
+      "ratio": 17.75,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagano/light/text on surfaceAlt",
+      "ratio": 16.54,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagano/light/textMuted on surface",
+      "ratio": 7.47,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagano/light/onPrimary on primary",
+      "ratio": 6.05,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagano/light/primaryStrong on surface",
+      "ratio": 5.79,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagano/light/border on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nagano/light/tintBorder on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nagano/dark/text on surface",
+      "ratio": 17.26,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagano/dark/text on surfaceAlt",
+      "ratio": 15.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagano/dark/textMuted on surface",
+      "ratio": 7.89,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagano/dark/onPrimary on primary",
+      "ratio": 6.05,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagano/dark/primaryStrong on surface",
+      "ratio": 4.58,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagano/dark/border on surface (UI)",
+      "ratio": 3.13,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nagano/dark/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "gifu/light/text on surface",
+      "ratio": 17.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gifu/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gifu/light/textMuted on surface",
+      "ratio": 7.46,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gifu/light/onPrimary on primary",
+      "ratio": 5.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gifu/light/primaryStrong on surface",
+      "ratio": 4.66,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gifu/light/border on surface (UI)",
+      "ratio": 3,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "gifu/light/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "gifu/dark/text on surface",
+      "ratio": 17.19,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gifu/dark/text on surfaceAlt",
+      "ratio": 15.68,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gifu/dark/textMuted on surface",
+      "ratio": 7.92,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gifu/dark/onPrimary on primary",
+      "ratio": 5.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gifu/dark/primaryStrong on surface",
+      "ratio": 5.39,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "gifu/dark/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "gifu/dark/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/light/text on surface",
+      "ratio": 17.62,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/light/text on surfaceAlt",
+      "ratio": 16.43,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/light/textMuted on surface",
+      "ratio": 7.39,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/light/onPrimary on primary",
+      "ratio": 5.28,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/light/primaryStrong on surface",
+      "ratio": 4.59,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/light/border on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/light/tintBorder on surface (UI)",
+      "ratio": 3.05,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/dark/text on surface",
+      "ratio": 17.3,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/dark/text on surfaceAlt",
+      "ratio": 15.68,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/dark/textMuted on surface",
+      "ratio": 7.95,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/dark/onPrimary on primary",
+      "ratio": 5.28,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/dark/primaryStrong on surface",
+      "ratio": 5.24,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/dark/border on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shizuoka/dark/tintBorder on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "aichi/light/text on surface",
+      "ratio": 17.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aichi/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aichi/light/textMuted on surface",
+      "ratio": 7.46,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aichi/light/onPrimary on primary",
+      "ratio": 9.33,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aichi/light/primaryStrong on surface",
+      "ratio": 8.9,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aichi/light/border on surface (UI)",
+      "ratio": 3,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "aichi/light/tintBorder on surface (UI)",
+      "ratio": 3.06,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "aichi/dark/text on surface",
+      "ratio": 17.19,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aichi/dark/text on surfaceAlt",
+      "ratio": 15.68,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aichi/dark/textMuted on surface",
+      "ratio": 7.92,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aichi/dark/onPrimary on primary",
+      "ratio": 9.33,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aichi/dark/primaryStrong on surface",
+      "ratio": 4.52,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "aichi/dark/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "aichi/dark/tintBorder on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "mie/light/text on surface",
+      "ratio": 17.74,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "mie/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "mie/light/textMuted on surface",
+      "ratio": 7.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "mie/light/onPrimary on primary",
+      "ratio": 11.28,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "mie/light/primaryStrong on surface",
+      "ratio": 4.58,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "mie/light/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "mie/light/tintBorder on surface (UI)",
+      "ratio": 3,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "mie/dark/text on surface",
+      "ratio": 17.21,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "mie/dark/text on surfaceAlt",
+      "ratio": 15.66,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "mie/dark/textMuted on surface",
+      "ratio": 7.94,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "mie/dark/onPrimary on primary",
+      "ratio": 13.13,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "mie/dark/primaryStrong on surface",
+      "ratio": 13.03,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "mie/dark/border on surface (UI)",
+      "ratio": 3.13,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "mie/dark/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shiga/light/text on surface",
+      "ratio": 17.72,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shiga/light/text on surfaceAlt",
+      "ratio": 16.54,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shiga/light/textMuted on surface",
+      "ratio": 7.37,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shiga/light/onPrimary on primary",
+      "ratio": 5.64,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shiga/light/primaryStrong on surface",
+      "ratio": 5.4,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shiga/light/border on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shiga/light/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shiga/dark/text on surface",
+      "ratio": 17.32,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shiga/dark/text on surfaceAlt",
+      "ratio": 15.8,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shiga/dark/textMuted on surface",
+      "ratio": 7.95,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shiga/dark/onPrimary on primary",
+      "ratio": 5.64,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shiga/dark/primaryStrong on surface",
+      "ratio": 4.67,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shiga/dark/border on surface (UI)",
+      "ratio": 3.03,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shiga/dark/tintBorder on surface (UI)",
+      "ratio": 3.04,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/light/text on surface",
+      "ratio": 17.74,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/light/text on surfaceAlt",
+      "ratio": 16.43,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/light/textMuted on surface",
+      "ratio": 7.52,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/light/onPrimary on primary",
+      "ratio": 4.8,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/light/primaryStrong on surface",
+      "ratio": 4.58,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/light/border on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/light/tintBorder on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/dark/text on surface",
+      "ratio": 17.13,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/dark/text on surfaceAlt",
+      "ratio": 15.61,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/dark/textMuted on surface",
+      "ratio": 7.86,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/dark/onPrimary on primary",
+      "ratio": 4.8,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/dark/primaryStrong on surface",
+      "ratio": 4.65,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/dark/border on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kyoto/dark/tintBorder on surface (UI)",
+      "ratio": 3,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "osaka/light/text on surface",
+      "ratio": 17.75,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "osaka/light/text on surfaceAlt",
+      "ratio": 16.53,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "osaka/light/textMuted on surface",
+      "ratio": 7.45,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "osaka/light/onPrimary on primary",
+      "ratio": 8.18,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "osaka/light/primaryStrong on surface",
+      "ratio": 4.5,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "osaka/light/border on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "osaka/light/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "osaka/dark/text on surface",
+      "ratio": 17.28,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "osaka/dark/text on surfaceAlt",
+      "ratio": 15.7,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "osaka/dark/textMuted on surface",
+      "ratio": 7.91,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "osaka/dark/onPrimary on primary",
+      "ratio": 8.18,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "osaka/dark/primaryStrong on surface",
+      "ratio": 8.14,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "osaka/dark/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "osaka/dark/tintBorder on surface (UI)",
+      "ratio": 3.05,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/light/text on surface",
+      "ratio": 17.65,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/light/text on surfaceAlt",
+      "ratio": 16.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/light/textMuted on surface",
+      "ratio": 7.41,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/light/onPrimary on primary",
+      "ratio": 11.4,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/light/primaryStrong on surface",
+      "ratio": 4.61,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/light/border on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/light/tintBorder on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/dark/text on surface",
+      "ratio": 17.36,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/dark/text on surfaceAlt",
+      "ratio": 15.82,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/dark/textMuted on surface",
+      "ratio": 7.96,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/dark/onPrimary on primary",
+      "ratio": 15.75,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/dark/primaryStrong on surface",
+      "ratio": 16.54,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/dark/border on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hyogo/dark/tintBorder on surface (UI)",
+      "ratio": 3.12,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nara/light/text on surface",
+      "ratio": 17.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nara/light/text on surfaceAlt",
+      "ratio": 16.43,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nara/light/textMuted on surface",
+      "ratio": 7.49,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nara/light/onPrimary on primary",
+      "ratio": 4.76,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nara/light/primaryStrong on surface",
+      "ratio": 4.56,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nara/light/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nara/light/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nara/dark/text on surface",
+      "ratio": 17.25,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nara/dark/text on surfaceAlt",
+      "ratio": 15.77,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nara/dark/textMuted on surface",
+      "ratio": 7.9,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nara/dark/onPrimary on primary",
+      "ratio": 4.76,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nara/dark/primaryStrong on surface",
+      "ratio": 4.64,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nara/dark/border on surface (UI)",
+      "ratio": 3,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nara/dark/tintBorder on surface (UI)",
+      "ratio": 3.14,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/light/text on surface",
+      "ratio": 17.77,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/light/textMuted on surface",
+      "ratio": 7.46,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/light/onPrimary on primary",
+      "ratio": 6.45,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/light/primaryStrong on surface",
+      "ratio": 4.54,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/light/border on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/light/tintBorder on surface (UI)",
+      "ratio": 3.06,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/dark/text on surface",
+      "ratio": 17.24,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/dark/text on surfaceAlt",
+      "ratio": 15.74,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/dark/textMuted on surface",
+      "ratio": 7.86,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/dark/onPrimary on primary",
+      "ratio": 6.45,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/dark/primaryStrong on surface",
+      "ratio": 6.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/dark/border on surface (UI)",
+      "ratio": 3.12,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "wakayama/dark/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tottori/light/text on surface",
+      "ratio": 17.59,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tottori/light/text on surfaceAlt",
+      "ratio": 16.45,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tottori/light/textMuted on surface",
+      "ratio": 7.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tottori/light/onPrimary on primary",
+      "ratio": 9.99,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tottori/light/primaryStrong on surface",
+      "ratio": 4.58,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tottori/light/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tottori/light/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tottori/dark/text on surface",
+      "ratio": 17.25,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tottori/dark/text on surfaceAlt",
+      "ratio": 15.77,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tottori/dark/textMuted on surface",
+      "ratio": 7.9,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tottori/dark/onPrimary on primary",
+      "ratio": 9.99,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tottori/dark/primaryStrong on surface",
+      "ratio": 9.92,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tottori/dark/border on surface (UI)",
+      "ratio": 3.12,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tottori/dark/tintBorder on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shimane/light/text on surface",
+      "ratio": 17.7,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shimane/light/text on surfaceAlt",
+      "ratio": 16.41,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shimane/light/textMuted on surface",
+      "ratio": 7.5,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shimane/light/onPrimary on primary",
+      "ratio": 5.1,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shimane/light/primaryStrong on surface",
+      "ratio": 4.54,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shimane/light/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shimane/light/tintBorder on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shimane/dark/text on surface",
+      "ratio": 17.15,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shimane/dark/text on surfaceAlt",
+      "ratio": 15.62,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shimane/dark/textMuted on surface",
+      "ratio": 7.88,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shimane/dark/onPrimary on primary",
+      "ratio": 5.1,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shimane/dark/primaryStrong on surface",
+      "ratio": 5.07,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "shimane/dark/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "shimane/dark/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "okayama/light/text on surface",
+      "ratio": 17.67,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okayama/light/text on surfaceAlt",
+      "ratio": 16.41,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okayama/light/textMuted on surface",
+      "ratio": 7.43,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okayama/light/onPrimary on primary",
+      "ratio": 9.93,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okayama/light/primaryStrong on surface",
+      "ratio": 4.69,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okayama/light/border on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "okayama/light/tintBorder on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "okayama/dark/text on surface",
+      "ratio": 17.24,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okayama/dark/text on surfaceAlt",
+      "ratio": 15.74,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okayama/dark/textMuted on surface",
+      "ratio": 7.98,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okayama/dark/onPrimary on primary",
+      "ratio": 9.93,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okayama/dark/primaryStrong on surface",
+      "ratio": 9.84,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okayama/dark/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "okayama/dark/tintBorder on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/light/text on surface",
+      "ratio": 17.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/light/text on surfaceAlt",
+      "ratio": 16.43,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/light/textMuted on surface",
+      "ratio": 7.46,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/light/onPrimary on primary",
+      "ratio": 6.19,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/light/primaryStrong on surface",
+      "ratio": 5.9,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/light/border on surface (UI)",
+      "ratio": 3.12,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/light/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/dark/text on surface",
+      "ratio": 17.2,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/dark/text on surfaceAlt",
+      "ratio": 15.69,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/dark/textMuted on surface",
+      "ratio": 7.87,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/dark/onPrimary on primary",
+      "ratio": 6.19,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/dark/primaryStrong on surface",
+      "ratio": 4.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/dark/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "hiroshima/dark/tintBorder on surface (UI)",
+      "ratio": 3.05,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/light/text on surface",
+      "ratio": 17.74,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/light/text on surfaceAlt",
+      "ratio": 16.46,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/light/textMuted on surface",
+      "ratio": 7.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/light/onPrimary on primary",
+      "ratio": 10.85,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/light/primaryStrong on surface",
+      "ratio": 4.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/light/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/light/tintBorder on surface (UI)",
+      "ratio": 3,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/dark/text on surface",
+      "ratio": 17.21,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/dark/text on surfaceAlt",
+      "ratio": 15.66,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/dark/textMuted on surface",
+      "ratio": 7.94,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/dark/onPrimary on primary",
+      "ratio": 10.85,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/dark/primaryStrong on surface",
+      "ratio": 10.77,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/dark/border on surface (UI)",
+      "ratio": 3.13,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "yamaguchi/dark/tintBorder on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/light/text on surface",
+      "ratio": 17.68,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/light/text on surfaceAlt",
+      "ratio": 16.4,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/light/textMuted on surface",
+      "ratio": 7.46,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/light/onPrimary on primary",
+      "ratio": 7.09,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/light/primaryStrong on surface",
+      "ratio": 6.79,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/light/border on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/light/tintBorder on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/dark/text on surface",
+      "ratio": 17.32,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/dark/text on surfaceAlt",
+      "ratio": 15.8,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/dark/textMuted on surface",
+      "ratio": 7.96,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/dark/onPrimary on primary",
+      "ratio": 7.09,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/dark/primaryStrong on surface",
+      "ratio": 4.6,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/dark/border on surface (UI)",
+      "ratio": 3.04,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "tokushima/dark/tintBorder on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/light/text on surface",
+      "ratio": 17.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/light/text on surfaceAlt",
+      "ratio": 16.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/light/textMuted on surface",
+      "ratio": 7.43,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/light/onPrimary on primary",
+      "ratio": 4.7,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/light/primaryStrong on surface",
+      "ratio": 4.51,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/light/border on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/light/tintBorder on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/dark/text on surface",
+      "ratio": 17.24,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/dark/text on surfaceAlt",
+      "ratio": 15.74,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/dark/textMuted on surface",
+      "ratio": 7.98,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/dark/onPrimary on primary",
+      "ratio": 4.7,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/dark/primaryStrong on surface",
+      "ratio": 4.54,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/dark/border on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kagawa/dark/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ehime/light/text on surface",
+      "ratio": 17.69,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ehime/light/text on surfaceAlt",
+      "ratio": 16.41,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ehime/light/textMuted on surface",
+      "ratio": 7.43,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ehime/light/onPrimary on primary",
+      "ratio": 9.89,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ehime/light/primaryStrong on surface",
+      "ratio": 4.65,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ehime/light/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ehime/light/tintBorder on surface (UI)",
+      "ratio": 3.13,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ehime/dark/text on surface",
+      "ratio": 17.18,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ehime/dark/text on surfaceAlt",
+      "ratio": 15.7,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ehime/dark/textMuted on surface",
+      "ratio": 7.92,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ehime/dark/onPrimary on primary",
+      "ratio": 9.89,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ehime/dark/primaryStrong on surface",
+      "ratio": 9.82,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "ehime/dark/border on surface (UI)",
+      "ratio": 3.13,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "ehime/dark/tintBorder on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kochi/light/text on surface",
+      "ratio": 17.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kochi/light/text on surfaceAlt",
+      "ratio": 16.45,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kochi/light/textMuted on surface",
+      "ratio": 7.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kochi/light/onPrimary on primary",
+      "ratio": 11.7,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kochi/light/primaryStrong on surface",
+      "ratio": 4.63,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kochi/light/border on surface (UI)",
+      "ratio": 3.08,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kochi/light/tintBorder on surface (UI)",
+      "ratio": 3.06,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kochi/dark/text on surface",
+      "ratio": 17.27,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kochi/dark/text on surfaceAlt",
+      "ratio": 15.73,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kochi/dark/textMuted on surface",
+      "ratio": 7.93,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kochi/dark/onPrimary on primary",
+      "ratio": 12.31,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kochi/dark/primaryStrong on surface",
+      "ratio": 12.2,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kochi/dark/border on surface (UI)",
+      "ratio": 3.03,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kochi/dark/tintBorder on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/light/text on surface",
+      "ratio": 17.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/light/text on surfaceAlt",
+      "ratio": 16.41,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/light/textMuted on surface",
+      "ratio": 7.45,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/light/onPrimary on primary",
+      "ratio": 5.38,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/light/primaryStrong on surface",
+      "ratio": 4.69,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/light/border on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/light/tintBorder on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/dark/text on surface",
+      "ratio": 17.11,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/dark/text on surfaceAlt",
+      "ratio": 15.59,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/dark/textMuted on surface",
+      "ratio": 7.87,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/dark/onPrimary on primary",
+      "ratio": 5.38,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/dark/primaryStrong on surface",
+      "ratio": 5.35,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/dark/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "fukuoka/dark/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "saga/light/text on surface",
+      "ratio": 17.66,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saga/light/text on surfaceAlt",
+      "ratio": 16.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saga/light/textMuted on surface",
+      "ratio": 7.42,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saga/light/onPrimary on primary",
+      "ratio": 8.76,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saga/light/primaryStrong on surface",
+      "ratio": 8.38,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saga/light/border on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "saga/light/tintBorder on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "saga/dark/text on surface",
+      "ratio": 17.3,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saga/dark/text on surfaceAlt",
+      "ratio": 15.78,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saga/dark/textMuted on surface",
+      "ratio": 7.92,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saga/dark/onPrimary on primary",
+      "ratio": 8.76,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saga/dark/primaryStrong on surface",
+      "ratio": 4.64,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "saga/dark/border on surface (UI)",
+      "ratio": 3.14,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "saga/dark/tintBorder on surface (UI)",
+      "ratio": 3.03,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/light/text on surface",
+      "ratio": 17.74,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/light/text on surfaceAlt",
+      "ratio": 16.46,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/light/textMuted on surface",
+      "ratio": 7.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/light/onPrimary on primary",
+      "ratio": 6.08,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/light/primaryStrong on surface",
+      "ratio": 4.69,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/light/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/light/tintBorder on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/dark/text on surface",
+      "ratio": 17.21,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/dark/text on surfaceAlt",
+      "ratio": 15.66,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/dark/textMuted on surface",
+      "ratio": 7.94,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/dark/onPrimary on primary",
+      "ratio": 6.08,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/dark/primaryStrong on surface",
+      "ratio": 6.04,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/dark/border on surface (UI)",
+      "ratio": 3.13,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "nagasaki/dark/tintBorder on surface (UI)",
+      "ratio": 3.12,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/light/text on surface",
+      "ratio": 17.75,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/light/text on surfaceAlt",
+      "ratio": 16.46,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/light/textMuted on surface",
+      "ratio": 7.52,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/light/onPrimary on primary",
+      "ratio": 14.73,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/light/primaryStrong on surface",
+      "ratio": 14.07,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/light/border on surface (UI)",
+      "ratio": 3.01,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/light/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/dark/text on surface",
+      "ratio": 17.16,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/dark/text on surfaceAlt",
+      "ratio": 15.62,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/dark/textMuted on surface",
+      "ratio": 7.88,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/dark/onPrimary on primary",
+      "ratio": 13.23,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/dark/primaryStrong on surface",
+      "ratio": 4.57,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/dark/border on surface (UI)",
+      "ratio": 3.1,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kumamoto/dark/tintBorder on surface (UI)",
+      "ratio": 3.05,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "oita/light/text on surface",
+      "ratio": 17.71,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "oita/light/text on surfaceAlt",
+      "ratio": 16.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "oita/light/textMuted on surface",
+      "ratio": 7.37,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "oita/light/onPrimary on primary",
+      "ratio": 7.82,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "oita/light/primaryStrong on surface",
+      "ratio": 4.59,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "oita/light/border on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "oita/light/tintBorder on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "oita/dark/text on surface",
+      "ratio": 17.34,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "oita/dark/text on surfaceAlt",
+      "ratio": 15.81,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "oita/dark/textMuted on surface",
+      "ratio": 7.97,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "oita/dark/onPrimary on primary",
+      "ratio": 7.82,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "oita/dark/primaryStrong on surface",
+      "ratio": 7.75,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "oita/dark/border on surface (UI)",
+      "ratio": 3.04,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "oita/dark/tintBorder on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/light/text on surface",
+      "ratio": 17.69,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/light/text on surfaceAlt",
+      "ratio": 16.55,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/light/textMuted on surface",
+      "ratio": 7.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/light/onPrimary on primary",
+      "ratio": 9.51,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/light/primaryStrong on surface",
+      "ratio": 4.6,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/light/border on surface (UI)",
+      "ratio": 3.09,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/light/tintBorder on surface (UI)",
+      "ratio": 3.05,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/dark/text on surface",
+      "ratio": 17.18,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/dark/text on surfaceAlt",
+      "ratio": 15.7,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/dark/textMuted on surface",
+      "ratio": 7.9,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/dark/onPrimary on primary",
+      "ratio": 9.51,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/dark/primaryStrong on surface",
+      "ratio": 9.44,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/dark/border on surface (UI)",
+      "ratio": 3.12,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "miyazaki/dark/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/light/text on surface",
+      "ratio": 17.78,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/light/text on surfaceAlt",
+      "ratio": 16.43,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/light/textMuted on surface",
+      "ratio": 7.46,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/light/onPrimary on primary",
+      "ratio": 13.87,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/light/primaryStrong on surface",
+      "ratio": 13.29,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/light/border on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/light/tintBorder on surface (UI)",
+      "ratio": 3.07,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/dark/text on surface",
+      "ratio": 17.24,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/dark/text on surfaceAlt",
+      "ratio": 15.74,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/dark/textMuted on surface",
+      "ratio": 7.86,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/dark/onPrimary on primary",
+      "ratio": 12.99,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/dark/primaryStrong on surface",
+      "ratio": 4.54,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/dark/border on surface (UI)",
+      "ratio": 3.12,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "kagoshima/dark/tintBorder on surface (UI)",
+      "ratio": 3.02,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/light/text on surface",
+      "ratio": 17.74,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/light/text on surfaceAlt",
+      "ratio": 16.55,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/light/textMuted on surface",
+      "ratio": 7.39,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/light/onPrimary on primary",
+      "ratio": 6.27,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/light/primaryStrong on surface",
+      "ratio": 4.57,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/light/border on surface (UI)",
+      "ratio": 3.06,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/light/tintBorder on surface (UI)",
+      "ratio": 3.11,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/dark/text on surface",
+      "ratio": 17.35,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/dark/text on surfaceAlt",
+      "ratio": 15.75,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/dark/textMuted on surface",
+      "ratio": 7.97,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/dark/onPrimary on primary",
+      "ratio": 6.27,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/dark/primaryStrong on surface",
+      "ratio": 6.23,
+      "min": 4.5,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/dark/border on surface (UI)",
+      "ratio": 3.06,
+      "min": 3,
+      "pass": true
+    },
+    {
+      "pair": "okinawa/dark/tintBorder on surface (UI)",
+      "ratio": 3.04,
+      "min": 3,
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+@import 'tailwindcss';
+@import './tokens.css';
+
+/*
+ * Semantic token bridge: exposes --pref-* custom properties (set per
+ * [data-pref="…"] scope in tokens.css) as Tailwind utilities, e.g.
+ * bg-pref-primary, text-pref-on-primary, border-pref-tint-border.
+ * Component code should reach for these utilities, never a raw hex.
+ */
+@theme inline {
+  --color-pref-identity: var(--pref-identity);
+  --color-pref-primary: var(--pref-primary);
+  --color-pref-on-primary: var(--pref-on-primary);
+  --color-pref-primary-strong: var(--pref-primary-strong);
+  --color-pref-tint-bg: var(--pref-tint-bg);
+  --color-pref-tint-border: var(--pref-tint-border);
+  --color-pref-surface: var(--pref-surface);
+  --color-pref-surface-alt: var(--pref-surface-alt);
+  --color-pref-text: var(--pref-text);
+  --color-pref-text-muted: var(--pref-text-muted);
+  --color-pref-border: var(--pref-border);
+
+  --color-status-success-fg: var(--status-success-fg);
+  --color-status-success-bg: var(--status-success-bg);
+  --color-status-success-border: var(--status-success-border);
+  --color-status-warning-fg: var(--status-warning-fg);
+  --color-status-warning-bg: var(--status-warning-bg);
+  --color-status-warning-border: var(--status-warning-border);
+  --color-status-danger-fg: var(--status-danger-fg);
+  --color-status-danger-bg: var(--status-danger-bg);
+  --color-status-danger-border: var(--status-danger-border);
+  --color-status-info-fg: var(--status-info-fg);
+  --color-status-info-bg: var(--status-info-bg);
+  --color-status-info-border: var(--status-info-border);
+
+  --font-sans:
+    'Zen Kaku Gothic New', 'Hiragino Sans', 'Noto Sans JP', system-ui,
+    sans-serif;
+}
+
+/*
+ * Status tokens are intentionally NOT derived from the prefecture identity
+ * color: an error/warning/success meaning has to stay recognizable no matter
+ * which of the 47 brand palettes is active, so these are fixed, pre-audited
+ * (WCAG AA, both modes) accessible pairs.
+ */
+:root {
+  color-scheme: light dark;
+
+  --status-success-fg: #15803d;
+  --status-success-bg: #ecfdf5;
+  --status-success-border: #86efac;
+  --status-warning-fg: #92400e;
+  --status-warning-bg: #fffbeb;
+  --status-warning-border: #fcd34d;
+  --status-danger-fg: #b91c1c;
+  --status-danger-bg: #fef2f2;
+  --status-danger-border: #fca5a5;
+  --status-info-fg: #1d4ed8;
+  --status-info-bg: #eff6ff;
+  --status-info-border: #93c5fd;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --status-success-fg: #4ade80;
+    --status-success-bg: #052e16;
+    --status-success-border: #166534;
+    --status-warning-fg: #fbbf24;
+    --status-warning-bg: #451a03;
+    --status-warning-border: #92400e;
+    --status-danger-fg: #f87171;
+    --status-danger-bg: #450a0a;
+    --status-danger-border: #991b1b;
+    --status-info-fg: #60a5fa;
+    --status-info-bg: #172554;
+    --status-info-border: #1e40af;
+  }
+}
+
+:root[data-theme='dark'] {
+  --status-success-fg: #4ade80;
+  --status-success-bg: #052e16;
+  --status-success-border: #166534;
+  --status-warning-fg: #fbbf24;
+  --status-warning-bg: #451a03;
+  --status-warning-border: #92400e;
+  --status-danger-fg: #f87171;
+  --status-danger-bg: #450a0a;
+  --status-danger-border: #991b1b;
+  --status-info-fg: #60a5fa;
+  --status-info-bg: #172554;
+  --status-info-border: #1e40af;
+}
+
+body {
+  margin: 0;
+  background: var(--pref-surface);
+  color: var(--pref-text);
+  font-family: var(--font-sans);
+  transition:
+    background-color 200ms ease,
+    color 200ms ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body {
+    transition: none;
+  }
+}
